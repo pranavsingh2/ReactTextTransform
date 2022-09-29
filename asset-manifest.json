@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pranavsingh2/ReactTextTransform/static/css/main.abd64e84.css",
+    "main.js": "/pranavsingh2/ReactTextTransform/static/js/main.8f1210a3.js",
+    "static/js/787.1cd43ffb.chunk.js": "/pranavsingh2/ReactTextTransform/static/js/787.1cd43ffb.chunk.js",
+    "index.html": "/pranavsingh2/ReactTextTransform/index.html",
+    "main.abd64e84.css.map": "/pranavsingh2/ReactTextTransform/static/css/main.abd64e84.css.map",
+    "main.8f1210a3.js.map": "/pranavsingh2/ReactTextTransform/static/js/main.8f1210a3.js.map",
+    "787.1cd43ffb.chunk.js.map": "/pranavsingh2/ReactTextTransform/static/js/787.1cd43ffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.8f1210a3.js"
+  ]
+}
